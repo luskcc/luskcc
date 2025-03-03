@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luskcc
+- 👋 Hi, I’m @chin
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning python (the next could be SQL, javascript, HTML and more)
 - 📫 How to reach me: luischen.wo@gmail.com
